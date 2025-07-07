@@ -1,6 +1,6 @@
 # Urnetwork easy installer
 
-Universal Bash script to automatically deploy the **URnetwork Provider** with docker.
+Universal Bash script to automatically deploy the [**URnetwork Provider**](https://docs.ur.io/provider) with docker.
 
 ## ✨ Features
 
